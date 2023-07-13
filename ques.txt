@@ -1,0 +1,10 @@
+kucch files banani hai , add karna hai , commit karna hai , tag karna hai , 
+tag ko upload karna hai github account pe 
+
+ek branch bnao development naam se , uss branch mein 3-4 file bana ke add aur commit karni hai , phir main branch pe aake merge karna hai 
+
+aap main branch se testing branch banani hai , vaha 3 file bana do aur vapis main branch par aajao , main branch pe aake kucch nayi files bana di aur purani file mein change kardiye , ab main branch mein testing branch ko merge ko kardenge ( merge conflict aayega ) solve this conflict 
+
+github pe jana hai , ek file banaunga ussi repository mein , ab mein yaha se git 
+
+git pull vs fetch 
